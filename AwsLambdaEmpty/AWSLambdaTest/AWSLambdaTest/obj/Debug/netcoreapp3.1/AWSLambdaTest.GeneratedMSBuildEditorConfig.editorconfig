@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = AWSLambdaTest
+build_property.ProjectDir = D:\Francisco\AWS LAMBDA\TesteLambda\AwsLambdaEmpty\AWSLambdaTest\AWSLambdaTest\

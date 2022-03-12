@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "j89jFZ4+/l9AnNpju1LWKpV7acaslk9NXa0JOfXkmczpuO6QMSa+T9qasCjUupUc50wmnAPtIE914gnWamLJ/Q==",
+  "success": true,
+  "projectFilePath": "C:\\ebookRevisado\\AwsLambdaEmpty (1)\\AwsLambdaEmpty\\AWSLambdaTest\\AWSLambdaTest\\AWSLambdaTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.2.0\\amazon.lambda.serialization.systemtextjson.2.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
